@@ -40,4 +40,4 @@ Ja hi som dins! Ara mirem que python està instal·lat amb la comanda:
 python3
 ```
 Per últim, VSC:
-![CAPTURA7](img/captura7.png)
+![CAPTURA7](img/CAPTURA7.png)
