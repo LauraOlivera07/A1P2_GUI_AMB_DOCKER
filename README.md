@@ -21,7 +21,7 @@ docker run -d --name {nom que vulguis posarli al contenidor} -p 2222:22 -p 5901:
 
 Per accedir per SSH I VNC  desde fora de la MV, fem redireccionament de ports. 
 ```bash
-ssh -p 2222 root@localhost
+ssh -p 2222 root@localhost (la contrasenya és ITB2025)
 ```
 ![CAPTURA4](img/CAPTURA4.png)
 
